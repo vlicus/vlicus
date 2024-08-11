@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Sam!</strong> </em>
 
-![](https://komarev.com/ghpvc/?VLicus&abbreviated=true)
+![](https://komarev.com/ghpvc/?VLicus)
 
 <h3 align="center">Connect With Me! </h3>
 <p>
