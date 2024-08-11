@@ -14,7 +14,7 @@ alt="VLicus" />
 ## Statistics
 
 <a href="https://github.com/VLicus">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VLicus&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=python,cython,css,html&langs_count=4" 
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VLicus&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats" 
   a/>
 
 <a href="https://github.com/VLicus">
