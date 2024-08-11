@@ -21,8 +21,14 @@ a/>
 <a href="https://github.com/VLicus">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=VLicus&show_icons=true&theme=radical&line_height=27&count_private=true" 
    alt="Sam's GitHub Stats" 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VLicus&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 a/>
+ 
+<a href="https://github.com/VLicus">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VLicus" />
+</a>
+<a href="https://github.com/VLicus">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VLicus&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 
