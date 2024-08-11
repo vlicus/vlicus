@@ -14,10 +14,13 @@ alt="VLicus" />
 ## Statistics
 
 <a href="https://github.com/VLicus">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VLicus&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=python,cython,css,html&langs_count=4" a/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VLicus&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=python,cython,css,html&langs_count=4" 
+  a/>
 
 <a href="https://github.com/VLicus">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=VLicus&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sam's GitHub Stats" a/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=VLicus&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" 
+   alt="Sam's GitHub Stats" 
+   a/>
 
  
 
