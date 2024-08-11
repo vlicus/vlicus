@@ -19,7 +19,7 @@ a/>
 
 <a href="https://github.com/VLicus">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=VLicus&show_icons=true&theme=radical&line_height=27&count_private=true" 
-   alt="Sam's GitHub Stats" 
+   alt="Sam's GitHub Stats">
  a/>
 
 
