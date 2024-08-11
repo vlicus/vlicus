@@ -22,6 +22,8 @@ alt="VLicus" />
    alt="Sam's GitHub Stats" 
    a/>
 
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=VLicus)](https://github.com/anuraghazra/github-readme-stats)
+
  
 
 
