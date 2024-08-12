@@ -13,7 +13,7 @@ alt="VLicus" />
 </p>
 
 ## Statistics
- 
+<div align="center"> 
 <a href="https://github.com/VLicus">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VLicus&show_icons=true&theme=radical" />
 </a>
@@ -22,6 +22,6 @@ alt="VLicus" />
 </a>
 <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. </i>
-
+</div>
 
  
