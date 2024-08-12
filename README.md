@@ -18,6 +18,8 @@ alt="VLicus" />
 </a>
 <a href="https://github.com/VLicus">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VLicus&theme=radical&layout=compact&langs_count=8&card_width=320" />
+  <br/>
+    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. </i>
 </a>
 
 
