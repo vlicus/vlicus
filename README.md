@@ -1,6 +1,10 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Sam!</strong> </em>
+<h1 align="center">
+ # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Sam!</strong> </em>
+</h1>
 
+<p align="center>
 ![](https://komarev.com/ghpvc/?username=VLicus&abbreviated=true&style=plastic)
+ </p>
 
 <h3 align="center">Connect With Me! </h3>
 <p align="center">
@@ -12,7 +16,10 @@ alt="VLicus" />
 </a>
 </p>
 
+<h2 align="center">
 ## Statistics
+</h2>
+
 <div align="center"> 
 <a href="https://github.com/VLicus">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VLicus&show_icons=true&theme=radical" />
