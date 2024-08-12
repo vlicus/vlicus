@@ -1,12 +1,18 @@
 <h1 align="center">
  # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Sam!</strong> </em>
+ ![](https://komarev.com/ghpvc/?username=VLicus&abbreviated=true&style=plastic)
 </h1>
 
-<p align="center>
-![](https://komarev.com/ghpvc/?username=VLicus&abbreviated=true&style=plastic)
- </p>
+<br/>
+<h2>
+<p align="center">
+  <a href="mailto:samu.cobas.ort@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/samuel-cobas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin"></a>
+  <a href="./src/assets/Resume.pdf" target="_blank" download="Resume.pdf"><img src="./assets/cv_samuel_cobas_ortiz.png"></a>
+</p>
+</h2>
+<br/>
 
-<h3 align="center">Connect With Me! </h3>
 <p align="center">
  
 <a href="https://www.linkedin.com/in/samuel-cobas/" target="_blank">
@@ -17,7 +23,7 @@ alt="VLicus" />
 </p>
 
 <h2 align="center">
-## Statistics
+## Statistics 📈
 </h2>
 
 <div align="center"> 
