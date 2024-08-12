@@ -1,14 +1,14 @@
 <h1 align="center">
  # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Sam!</strong> </em>
- ![](https://komarev.com/ghpvc/?username=VLicus&abbreviated=true&style=plastic)
 </h1>
-
+ ![](https://komarev.com/ghpvc/?username=VLicus&abbreviated=true&style=plastic)
 <br/>
+
 <h2>
 <p align="center">
   <a href="mailto:samu.cobas.ort@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/samuel-cobas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin"></a>
-  <a href="./src/assets/Resume.pdf" target="_blank" download="Resume.pdf"><img src="./assets/cv_samuel_cobas_ortiz.png"></a>
+  <a href="./src/assets/Resume.pdf" target="_blank" download="Resume.pdf"><img src="https://img.shields.io/badge/-Resume-0D1117?style=for-the-badge&logo=Revolt.chat"></a>
 </p>
 </h2>
 <br/>
