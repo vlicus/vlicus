@@ -1,7 +1,7 @@
 <h1 align="center">
  # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Sam!</strong> </em>
 </h1>
- ![](https://komarev.com/ghpvc/?username=VLicus&abbreviated=true&style=plastic)
+![](https://komarev.com/ghpvc/?username=VLicus&abbreviated=true&style=plastic)
 <br/>
 
 <h2>
