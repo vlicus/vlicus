@@ -24,4 +24,6 @@ alt="VLicus" />
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. </i>
 </div>
 
- 
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Bitter&duration=3000&color=a110e3&background=01010100&center=true&vCenter=true&lines=Thank+you!"></a>
+</p>
