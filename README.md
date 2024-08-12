@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:samu.cobas.ort@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/samuel-cobas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin"></a>
-  <a href="./src/assets/Resume.pdf" target="_blank" download="Resume.pdf"><img src="https://img.shields.io/badge/-Resume-0D1117?style=for-the-badge&logo=Revolt.chat"></a>
+  <a href="assets/cv_samuel_cobas_ortiz.png" target="_blank" download="Resume.pdf"><img src="https://img.shields.io/badge/-Resume-0D1117?style=for-the-badge&logo=Revolt.chat"></a>
 </p>
 </h2>
 <br/>
