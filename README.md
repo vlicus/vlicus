@@ -12,7 +12,13 @@
 </p>
 
 <h2 align="center">Main Technologies ⚡</h2>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Bash-000?style=for-the-badge&logo=GNU%20Bash"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-GitHub%20Actions-000?style=for-the-badge&logo=GitHub%20Actions"></a>
 
+</p>
 <br/>
 
 <p align="center">
