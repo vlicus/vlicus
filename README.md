@@ -1,7 +1,7 @@
 <h1 align="center">
  # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Sam!</strong> </img> 
-![](https://komarev.com/ghpvc/?username=VLicus&abbreviated=true&style=plastic)
  </h1>
+![](https://komarev.com/ghpvc/?username=VLicus&abbreviated=true&style=plastic)
 
 <h2 align="center"> Contact me! </h2>
 <p align="center">
