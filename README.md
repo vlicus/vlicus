@@ -1,5 +1,7 @@
 <h1 align="center">
  # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Sam!</strong> </img> 
+   <a href="#"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Bitter&color=a110e3&background=01010100&center=true&vCenter=true&lines=Software+Engineer;Full-Stack+Developer;Cloud+Administrator" 
+style="max-width: 100%;"></a>
  </h1>
  
 ![](https://komarev.com/ghpvc/?username=VLicus&abbreviated=true&style=plastic)
