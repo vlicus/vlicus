@@ -22,9 +22,9 @@ style="max-width: 100%;"></a>
   <a href="#"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
   <a href="#"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Bash-000?style=for-the-badge&logo=GNU%20Bash"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+  <a href="#"><img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
 
 </p>
 <br/>
