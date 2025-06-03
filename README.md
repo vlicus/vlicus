@@ -4,8 +4,10 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
    <a href="#"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Bitter&color=a110e3&background=01010100&center=true&vCenter=true&lines=Web+Developer;" 
 style="max-width: 100%;"></a>
  </h1>
-
+<center>
+   
 ![](https://komarev.com/ghpvc/?username=VLicus&abbreviated=true&style=for-the-badge&color=blueviolet)
+</center>
 
 
 <h2 align="center"> Contact me! </h2>
