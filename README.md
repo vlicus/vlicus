@@ -1,5 +1,5 @@
 <h1 align="center">
- # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Sam!</strong> </img> 
+Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Sam!</strong> </img> 
 <br/>
    <a href="#"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Bitter&color=a110e3&background=01010100&center=true&vCenter=true&lines=Web+Developer;" 
 style="max-width: 100%;"></a>
@@ -16,11 +16,15 @@ style="max-width: 100%;"></a>
 
 <h2 align="center">Main Technologies ⚡</h2>
 <p align="center">
+  <a href="#"><img src="(https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+  <a href="#"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+  <a href="#"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Bash-000?style=for-the-badge&logo=GNU%20Bash"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-GitHub%20Actions-000?style=for-the-badge&logo=GitHub%20Actions"></a>
-  <a href="#"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
 
 </p>
 <br/>
@@ -35,7 +39,7 @@ alt="VLicus" />
 </p>
 
 <h2 align="center">
-## Statistics 📈
+Statistics 📈
 </h2>
 
 <div align="center"> 
