@@ -7,10 +7,7 @@ style="max-width: 100%;"></a>
 ![](https://komarev.com/ghpvc/?username=VLicus&abbreviated=true&style=for-the-badge&color=blueviolet)
  </h1>
 
-
-
-
-<h2 align="center"> Contact me! </h2>
+<h2> Contact me 📩 </h2>
 <p align="center">
   <a href="mailto:samu.cobas.ort@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/samuel-cobas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
@@ -18,7 +15,7 @@ alt="VLicus"></a>
   <a href="assets/cv_samuel_cobas_ortiz.png" target="_blank" download="Resume.pdf"><img src="https://img.shields.io/badge/-Resume-0D1117?style=for-the-badge&logo=Revolt.chat"></a>
 </p>
 
-<h2 align="center">Main Technologies ⚡</h2>
+<h2>Main Technologies ⚡</h2>
 <p align="center">
   <a href="#"><img src="(https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
@@ -33,18 +30,7 @@ alt="VLicus"></a>
 </p>
 <br/>
 
-<p align="center">
- 
-<a href="https://www.linkedin.com/in/samuel-cobas/" target="_blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-alt="VLicus" />
- 
-</a>
-</p>
-
-<h2 align="center">
-Statistics 📈
-</h2>
+<h2> Statistics 📈</h2>
 
 <div align="center"> 
 <a href="https://github.com/VLicus">
