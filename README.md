@@ -1,4 +1,3 @@
-<main algin="center>
 <h1 align="center">
 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Sam!</strong> </img> 
 <br/>
@@ -59,4 +58,3 @@ Statistics 📈
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Bitter&duration=3000&color=a110e3&background=01010100&center=true&vCenter=true&lines=Thank+you!"></a>
 </p>
-</main>
