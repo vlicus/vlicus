@@ -4,13 +4,15 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
    <a href="#"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Bitter&color=a110e3&background=01010100&center=true&vCenter=true&lines=Web+Developer;" 
 style="max-width: 100%;"></a>
  </h1>
- 
+ <div alighn="center">
 ![](https://komarev.com/ghpvc/?username=VLicus&abbreviated=true&style=plastic)
+ </div>
 
 <h2 align="center"> Contact me! </h2>
 <p align="center">
-  <a href="mailto:samu.cobas.ort@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/samuel-cobas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:samu.cobas.ort@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/samuel-cobas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+alt="VLicus"></a>
   <a href="assets/cv_samuel_cobas_ortiz.png" target="_blank" download="Resume.pdf"><img src="https://img.shields.io/badge/-Resume-0D1117?style=for-the-badge&logo=Revolt.chat"></a>
 </p>
 
