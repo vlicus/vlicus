@@ -13,11 +13,12 @@ style="max-width: 100%;"></a>
   <a href="https://www.linkedin.com/in/samuel-cobas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
 alt="VLicus"></a>
   <a href="assets/cv_samuel_cobas_ortiz.png" target="_blank" download="Resume.pdf"><img src="https://img.shields.io/badge/-Resume-0D1117?style=for-the-badge&logo=Revolt.chat"></a>
+  <a href="https://samuel-cobas-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg"></a>
 </p>
 
 <h2>Main Technologies ⚡</h2>
 <p align="center">
-  <a href="#"><img src="(https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
   <a href="#"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
