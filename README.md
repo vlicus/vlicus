@@ -12,7 +12,7 @@ style="max-width: 100%;"></a>
   <a href="mailto:samu.cobas.ort@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/samuel-cobas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
 alt="VLicus"></a>
-  <a href="assets/cv_samuel_cobas_ortiz.png" target="_blank" download="Resume.pdf"><img src="https://img.shields.io/badge/-Resume-0D1117?style=for-the-badge&logo=Revolt.chat"></a>
+  <a href="assets/curriculum_Vitae_Samuel_Cobas.pdf" target="_blank" download="Resume.pdf"><img src="https://img.shields.io/badge/-Resume-0D1117?style=for-the-badge&logo=Revolt.chat"></a>
   <a href="https://samuel-cobas-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg"></a>
 </p>
 
